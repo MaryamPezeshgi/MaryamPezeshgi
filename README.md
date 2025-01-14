@@ -1,52 +1,37 @@
-# 👨‍💻 Hello, I'm Maryam!
+Hi 👋 My name is Maryam Pezeshgi
+================================
 
-Welcome to my GitHub profile! I'm a **Computer Engineer** with a passion for turning data into actionable insights and creating efficient solutions. My expertise lies in **Data Analysis**, **Python**, **Power BI**, **Azure**, and more.
+Data Analyst
+------------
 
----
+I am a data analyst who loves data and big data!
 
-## 🛠️ Skills and Technologies
-
-- **Programming & Scripting**: Python, SQL
-- **Data Visualization**: Power BI, Excel (Advanced)
-- **Cloud Platforms**: Microsoft Azure
-- **Data Analysis & Manipulation**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Version Control**: Git/GitHub
-
----
-
-## 🌟 Featured Projects
-
-### 📊 [Data Analysis Project](https://github.com/your-repo-link)
-- Extracted and analyzed large datasets to uncover actionable insights.
-- Created interactive dashboards using Power BI for real-time tracking.
-
-### ☁️ [Azure Deployment](https://github.com/your-repo-link)
-- Developed and deployed scalable applications on Microsoft Azure.
-- Automated workflows and monitoring for seamless cloud operations.
-
-### 🛠️ [Custom Python Tools](https://github.com/your-repo-link)
-- Built Python scripts for data cleaning and analysis, saving hours of manual work.
-- Designed user-friendly tools for non-technical stakeholders.
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5cdb95?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-### 🎨 Styling Your Profile with Images
-
-#### Add a header image:
-```html
-<img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile!" alt="GitHub Profile Banner">
+*   ✉️  You can contact me at [Mary.pezeshgi@gmail.com](mailto:Mary.pezeshgi@gmail.com)
+*   🧠  I'm learning Fabric
+*   🤝  I'm open to collaborating on projects### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/MaryamPezeshgi" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/maryampezeshgi/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/MaryamPezeshgi"><img src="https://github-readme-stats.vercel.app/api?username=MaryamPezeshgi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MaryamPezeshgi's GitHub stats" /></a><a
+                      href="http://www.github.com/MaryamPezeshgi"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamPezeshgi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/MaryamPezeshgi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MaryamPezeshgi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/MaryamPezeshgi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamPezeshgi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
